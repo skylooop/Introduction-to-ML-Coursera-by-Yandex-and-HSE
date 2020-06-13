@@ -1,7 +1,10 @@
 # Полезные ссылки
 https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks
+
 https://github.com/jrjohansson/scientific-python-lectures#online-read-only-versions
+
 https://nbviewer.jupyter.org/gist/rpmuller/5920182
+
 https://www.learndatasci.com/free-data-science-books/
 # Неделя 1. Введение. Примеры задач. Логические методы: решающие деревья и решающие леса.
 # Неделя 2. Метрические методы классификации. Линейные методы, стохастический градиент.
